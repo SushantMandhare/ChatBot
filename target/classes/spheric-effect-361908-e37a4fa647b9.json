@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spheric-effect-361908",
+  "private_key_id": "e37a4fa647b98c05be2f00ea93fd3f74e1fe2638",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbRgKNuio85NDe\nJsdm3wZKAa5/qFY9sNsjjo+a5KCA1paR3YvTkJG/w33ca/7HsrRdoIyHywHp/DW9\nsDsaz2fvpdi0cXrEHPnqdK4Fq4vfjMeJ1Y/Q7dtiYpEpVw0Jc7v/lc1CnuMmRAsV\noRwldSPL7l+VucB2yAw3a2BlmZwY5stVZuVQw/o2rYcsSh4idhKoBXg61laB7JD7\na2P/cKpcXqyOJSDcFLu2jppNgAgPj70YipxdaX8AntCtEbyzBViNHbA1XPjpdWjO\nEiYhe0b2rVRJaiSU5sF38yd2w51VxDXyT6354YjUBBQH3gFUncyXti+3cR7DtJbF\njANqHIglAgMBAAECggEAAgYgV+UWklsgLtkeDcT38cSCWAcjcqPow1ajIA99WRiS\n911GKpCOmcuMSzB8LnGxoKvMUSPQB1MCh1Gx/4g3EFxezgFRqpc/GbOCJjBFfzk4\nS59lQ8Gp86cZwcpw8M/Zojv7ZDQqfU/zPgmu0n0rpYeaptq4O8QhRqKna8OcEYYB\naan2mhRtmhoMwKbzIiAYZVWBgzEc0sciP3e6fdTVXeXS+RC91PagfuLzC89ZSFXG\nQXxZZ3cNROTy2t2CdItqNcAzdOxuapresA6xofywlRZTQHy9Ph29+eoXKmUkqvR3\nvBSYgD90dmddmm82BJW5VTRxpcafTuhtKwCTMnaROQKBgQDR3NLLMgZ1QQHe7q9m\n9k9gNOigrkuV+HA90J95sLsrfJn/nlIFdnU9Q1CohwXjXh7KSFqSVMRBzXbGVbcb\n9msG38XXxksTJHFx709BOUG3a01uRzS8/tfUqitUtgNMts2MguOb17BZla0Wcmrd\nCnXbzyVNiItHtvnltsNyLdLOvQKBgQC9aOHwTVTNZdrAFFaHM5MZaQcpTUW/JXse\nUYl5T5XlJRYm3S4qPpov2wWgCQmC9jNDMuZtIg5uScqw3j/vdf4cSOcas0e82kgg\n2M2gJtX4zFuGxGcVEXSQKAng15WEXGT2I23+jTC/NM02Ig3wlNpsbAhGSOORNzaV\n9VAcpjhJiQKBgQCo6bDshaY3CAzGb5zUJZo72DoI4mDKI73Lszg4zSvJU6/r03U3\nGmJA3gZ0rsDpgV8M93GW6A1S3VolRuZr5km8ra3i/6J7lNCOoMxMthYT2JTpFvz2\nxbPYYuMfeqRrQZNt7gfe7prtcBBxycQDh6DXPAJNRoK8RSUcZJ8pLoLHjQKBgEOg\nOeMZSSjYr+SanlZBZMjSxfrKGxfnIvEtPX8xmhwpRKJ1n/D3Twe9FGISN/IpQx5A\nAyN94FciQ5sojv1JTIP+x3yx+/ACo3QO1EPU+dqN5DPW1dMg21RI51X+wuRyNJ3p\nAnG7KWdrS8WDHSUDkITbgYzOo2mKpBOgdYz1D+25AoGAW9UfkiJBrHzJC85Db8PO\n/rijBDCXtYolIJ7palR3CTvL1TNR4zSb5zmU8jp2QyEfHBLADDjHBvBwJPQm4qoq\n+GUgIDggE+XOraIjCVBpZvmk+NjMFabuVu4EN4n8pAjmFRD5to4HShbcJ7JbR1qo\nSIbwvb6YNdnAVNZ3Q3FhQik=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-voice-control@spheric-effect-361908.iam.gserviceaccount.com",
+  "client_id": "109331875516520405632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-voice-control%40spheric-effect-361908.iam.gserviceaccount.com"
+}

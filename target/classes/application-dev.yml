@@ -1,0 +1,5 @@
+chatbotconfiguration: 
+  google:
+    name: Bot
+    projectid: spheric-effect-361908
+    languageCode: en-US
